@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923584184622",
+    "project_id": "facebook-signin-f45a7",
+    "storage_bucket": "facebook-signin-f45a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923584184622:android:30007fb1c2bced43af3abf",
+        "android_client_info": {
+          "package_name": "com.example.facebooksignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923584184622-cvgv5rco8pmlhp9fecn5ho83hig3s1hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa69p738XYaWQ6ZQgEH3lhtngzFPyxO90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923584184622-cvgv5rco8pmlhp9fecn5ho83hig3s1hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
